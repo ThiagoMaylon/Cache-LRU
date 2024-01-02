@@ -7,7 +7,7 @@ Este projeto tem como objetivo desenvolver uma estrutura de dados que simula um 
 
 ## Estado do Projeto
 
-**Andamento:** Em Desenvolvimento
+**Andamento:** Concluído
 
 ## Problema
 
